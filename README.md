@@ -70,7 +70,7 @@ Je suis développeur fullstack basé au **Bénin 🇧🇯**, spécialisé dans l
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kcfaustin&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kcfaustin&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
