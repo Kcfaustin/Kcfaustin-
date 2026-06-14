@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Faustin</h1>
+<h1 align="center">👋 Salut, je suis Faustin AGOHOUNDJE</h1>
 
 <p align="center">
   <b>Flutter & Laravel Developer</b> · Building SaaS products · Open to freelance
@@ -38,12 +38,15 @@ Je suis développeur fullstack basé au **Bénin 🇧🇯**, spécialisé dans l
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Doppler](https://img.shields.io/badge/Doppler-412991?style=flat&logo=doppler&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
 ---
 
@@ -67,10 +70,6 @@ Je suis développeur fullstack basé au **Bénin 🇧🇯**, spécialisé dans l
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kcfaustin&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kcfaustin&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
